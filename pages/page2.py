@@ -1,6 +1,3 @@
-API_KEY ="7b5a15eb766b40ad8bcd91226b98eca5"
-education_office_code = "J10"
-school_code = "7530066"
 
 import streamlit as st
 import datetime
